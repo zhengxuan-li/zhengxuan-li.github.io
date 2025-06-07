@@ -22,7 +22,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Zhengxuan Li 李政轩"
+  name             : "Zhengxuan Li"
+  name_EN          : "Zhengxuan Li"
+  name_CH          : "李政轩"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "M.S. Student at NJU"
   location         : "Nanjing, China"
