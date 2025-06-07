@@ -15,8 +15,9 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-# About me
+# 👤 About me
 ======
+
 My name is Zhengxuan Li. I'm now a first-year master's student in [NJU-3DV Lab](http://zhuhao.cc/home/) and [CITE Lab](https://cite.nju.edu.cn/), supervised by [Prof. Hao Zhu](http://zhuhao.cc/home/) and [Prof. Xun Cao](https://cite.nju.edu.cn/People/Faculty/20190621/i5054.html). My research interests include **3D avatar animation, motion synthesis, generative model and 3D computer vision**. I obtained my Bachelor’s degree in the School of Electronic Science and Engineering from [Nanjing University](https://www.nju.edu.cn/en/) in 2024.
 
 
@@ -28,7 +29,8 @@ My name is Zhengxuan Li. I'm now a first-year master's student in [NJU-3DV Lab](
 # 📖 Educations
 - **2024.09 - Present**: Nanjing University, Master's student in NJU-3DV Lab and CITE Lab
 - **2020.09 - 2024.07**: Nanjing University, Bachelor of Science in Commucation Engineering
-- 
+
+
 # 📝 Publications 
 
   
