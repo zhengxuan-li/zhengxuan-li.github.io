@@ -36,7 +36,9 @@ Pressure2Motion: Hierarchical Motion Synthesis from Ground Pressure with Text Gu
 
 <!-- In submission to **AAAI 2026** -->
 [[paper]]()[[project]]()
+</div>
 
+<!-- </div>
 
 # 🎖 Honors and Awards
 - Graduate Student Scholarship (First Class), **2024**
