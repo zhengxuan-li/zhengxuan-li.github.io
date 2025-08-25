@@ -34,7 +34,8 @@ My name is Zhengxuan Li. I'm now a first-year master's student in [NJU-3DV Lab](
 <div class='paper-box-text' markdown="1">
 Pressure2Motion: Hierarchical Motion Synthesis from Ground Pressure with Text Guidance
 
-<!-- In submission to **AAAI 2026** -->
+In submission to **AAAI 2026**
+
 [[paper]]()[[project]]()
 </div>
 
