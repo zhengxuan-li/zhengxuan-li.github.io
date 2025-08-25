@@ -16,8 +16,6 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 # 👤 About me
-======
-
 My name is Zhengxuan Li. I'm now a first-year master's student in [NJU-3DV Lab](http://zhuhao.cc/home/) and [CITE Lab](https://cite.nju.edu.cn/), supervised by [Prof. Hao Zhu](http://zhuhao.cc/home/) and [Prof. Xun Cao](https://cite.nju.edu.cn/People/Faculty/20190621/i5054.html). My research interests include **3D avatar animation, motion synthesis, generative model and 3D computer vision**. I obtained my Bachelor’s degree in the School of Electronic Science and Engineering from [Nanjing University](https://www.nju.edu.cn/en/) in 2024.
 
 
@@ -32,8 +30,14 @@ My name is Zhengxuan Li. I'm now a first-year master's student in [NJU-3DV Lab](
 
 
 # 📝 Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/pressure2motion.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+Pressure2Motion: Hierarchical Motion Synthesis from Ground Pressure with Text Guidance
 
-  
+<!-- In submission to **AAAI 2026** -->
+[[paper]]()[[project]]()
+
+
 # 🎖 Honors and Awards
 - Graduate Student Scholarship (First Class), **2024**
 - Outstanding	Bachelor’s Graduate Student of Nanjing University, **2024**
