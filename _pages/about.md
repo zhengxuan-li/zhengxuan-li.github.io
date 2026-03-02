@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 # 👤 About me
-My name is Zhengxuan Li. I'm now a first-year master's student in [NJU-3DV Lab](http://zhuhao.cc/home/) and [CITE Lab](https://cite.nju.edu.cn/), supervised by [Prof. Hao Zhu](http://zhuhao.cc/home/) and [Prof. Xun Cao](https://cite.nju.edu.cn/People/Faculty/20190621/i5054.html). My research interests include **3D avatar animation, motion synthesis, generative model and 3D computer vision**. I obtained my Bachelor’s degree in the School of Electronic Science and Engineering from [Nanjing University](https://www.nju.edu.cn/en/) in 2024.
+My name is Zhengxuan Li. I'm now a master's student in [NJU-3DV Lab](http://zhuhao.cc/home/) and [CITE Lab](https://cite.nju.edu.cn/), supervised by [Prof. Hao Zhu](http://zhuhao.cc/home/) and [Prof. Xun Cao](https://cite.nju.edu.cn/People/Faculty/20190621/i5054.html). My research interests include **motion synthesis, character animation and generative model**. I obtained my Bachelor’s degree in the School of Electronic Science and Engineering from [Nanjing University](https://www.nju.edu.cn/en/) in 2024.
 
 
 <!-- # 🔥 News
@@ -32,17 +32,19 @@ My name is Zhengxuan Li. I'm now a first-year master's student in [NJU-3DV Lab](
 # 📝 Publications 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/pressure2motion.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-Pressure2Motion: Hierarchical Motion Synthesis from Ground Pressure with Text Guidance
+Pressure2Motion: Hierarchical Human Motion Reconstruction from Ground Pressure with Text Guidance
 
-In submission to **AAAI 2026**
+Zhengxuan Li, Qinhui Yang, Yiyu Zhuang, Chuan Guo, Xinxin Zuo, Xiaoxiao Long, Yao Yao, Xun Cao, Qiu Shen, Hao Zhu 
 
-[[paper]]()[[project]]()
+**CVPR 2026**
+
+[[paper]](https://arxiv.org/abs/2511.05038)[[project]](https://zhengxuan-li.github.io/Pressure2Motion-page)
 </div>
 
 </div>
 
 # 🎖 Honors and Awards
-- Graduate Student Scholarship (First Class), **2024**
+- Graduate Student Scholarship (First Class), **2024,2025**
 - Outstanding	Bachelor’s Graduate Student of Nanjing University, **2024**
 - National Undergraduate Innovation Annual Conference: Best Creative Project, **2023**
 - National Undergraduate Electronic Design Contest – Analog Electronic System Design Invitational: National Second Prize, **2022**
