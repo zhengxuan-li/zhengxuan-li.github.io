@@ -30,7 +30,7 @@ My name is Zhengxuan Li. I'm now a master's student in [NJU-3DV Lab](http://zhuh
 
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/pressure2motion.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR26</div><img src='images/pressure2motion.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 Pressure2Motion: Hierarchical Human Motion Reconstruction from Ground Pressure with Text Guidance
 
