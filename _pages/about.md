@@ -32,8 +32,8 @@ redirect_from:
 }
 
 .education-icon img {
-  max-width: 60px;
-  max-height: 60px;
+  max-width: 80px;
+  max-height: 80px;
   width: auto;
   height: auto;
   object-fit: contain;
@@ -59,8 +59,8 @@ redirect_from:
 
 .internship-icon {
   min-width: 45px;
-  width: 45px;
-  height: 45px;
+  width: 90px;
+  height: 90px;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -68,8 +68,8 @@ redirect_from:
 }
 
 .internship-icon img {
-  max-width: 45px;
-  max-height: 45px;
+  max-width: 90px;
+  max-height: 90px;
   width: auto;
   height: auto;
   object-fit: contain;
