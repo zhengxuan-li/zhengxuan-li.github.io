@@ -16,6 +16,10 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <style>
+body {
+  font-size: 18px;  /* 默认调整基础字体大小 */
+}
+  
 .education-item {
   display: flex;
   align-items: center;
@@ -119,8 +123,10 @@ My name is Zhengxuan Li. I'm now a master's student in [NJU-3DV Lab](http://zhuh
 # 📝 Publications 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR2026</div><img src='images/pressure2motion.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-Pressure2Motion: Hierarchical Human Motion Reconstruction from Ground Pressure with Text Guidance
 
+<a href="https://arxiv.org/abs/2511.05038" style="font-size: 20px; color: #1f6feb; text-decoration: none; font-weight: bold;">
+Pressure2Motion: Hierarchical Human Motion Reconstruction from Ground Pressure with Text Guidance
+</a>
 Zhengxuan Li, Qinhui Yang, Yiyu Zhuang, Chuan Guo, Xinxin Zuo, Xiaoxiao Long, Yao Yao, Xun Cao, Qiu Shen, Hao Zhu 
 
 **CVPR 2026**
