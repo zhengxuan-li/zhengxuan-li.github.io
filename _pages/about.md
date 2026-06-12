@@ -18,7 +18,7 @@ redirect_from:
 <style>
 .education-item {
   display: flex;
-  align-items: flex-start;
+  align-items: center;
   margin-bottom: 20px;
   gap: 15px;
 }
@@ -47,7 +47,7 @@ redirect_from:
 .internship-container {
   display: flex;
   gap: 15px;
-  align-items: flex-start;
+  align-items: center;
   margin-bottom: 20px;
 }
 
