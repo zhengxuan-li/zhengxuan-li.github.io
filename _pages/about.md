@@ -93,7 +93,7 @@ My name is Zhengxuan Li. I'm now a master's student in [NJU-3DV Lab](http://zhuh
 # 📖 Educations
 <div class="education-item">
   <div class="education-icon">
-    <img src="images/nanjing_university.png" alt="Nanjing University">
+    <img src="images/nju.png" alt="Nanjing University">
   </div>
   <div class="education-content">
     <div><strong>2024.09 - Present</strong>: Nanjing University, Master's student in <a href="http://zhuhao.cc/home/">NJU-3DV Lab</a> and <a href="https://cite.nju.edu.cn/">CITE Lab</a></div>
@@ -108,7 +108,7 @@ My name is Zhengxuan Li. I'm now a master's student in [NJU-3DV Lab](http://zhuh
       <img src="images/alibaba.png" alt="Alibaba Group">
     </div>
     <div class="internship-icon">
-      <img src="images/research.png" alt="Research">
+      <img src="images/taobao.png" alt="taobao">
     </div>
   </div>
   <div class="internship-content">
