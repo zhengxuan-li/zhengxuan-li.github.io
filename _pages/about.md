@@ -25,12 +25,15 @@ My name is Zhengxuan Li. I'm now a master's student in [NJU-3DV Lab](http://zhuh
 -->
 
 # 📖 Educations
-- **2024.09 - Present**: Nanjing University, Master's student in NJU-3DV Lab and CITE Lab
+- **2024.09 - Present**: Nanjing University, Master's student in [NJU-3DV Lab](http://zhuhao.cc/home/) and [CITE Lab](https://cite.nju.edu.cn/)
 - **2020.09 - 2024.07**: Nanjing University, Bachelor of Science in Commucation Engineering
 
+# 💻 Internships
+- **2026.03 - Present**: Alibaba Group, Research Intern in [TaoTian Meta Technology Team](https://github.com/alibaba/Taobao3D)
 
+  
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR26</div><img src='images/pressure2motion.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR2026</div><img src='images/pressure2motion.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 Pressure2Motion: Hierarchical Human Motion Reconstruction from Ground Pressure with Text Guidance
 
