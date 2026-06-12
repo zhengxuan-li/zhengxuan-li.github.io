@@ -82,7 +82,7 @@ redirect_from:
 </style>
 
 # 👤 About me
-My name is Zhengxuan Li. I'm now a master's student in [NJU-3DV Lab](http://zhuhao.cc/home/) and [CITE Lab](https://cite.nju.edu.cn/), supervised by [Prof. Hao Zhu](http://zhuhao.cc/home/) and [Prof. [...]
+My name is Zhengxuan Li. I'm now a master's student in [NJU-3DV Lab](http://zhuhao.cc/home/) and [CITE Lab](https://cite.nju.edu.cn/), supervised by [Prof. Hao Zhu](http://zhuhao.cc/home/) and [Prof. Xun Cao](https://cite.nju.edu.cn/People/Faculty/20190621/i5054.html). My research interests include **motion synthesis, character animation and generative model**. I obtained my Bachelor’s degree in the School of Electronic Science and Engineering from [Nanjing University](https://www.nju.edu.cn/en/) in 2024.
 
 
 <!-- # 🔥 News
