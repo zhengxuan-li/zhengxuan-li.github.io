@@ -116,7 +116,7 @@ My name is Zhengxuan Li. I'm now a master's student in [NJU-3DV Lab](http://zhuh
     </div>
   </div>
   <div class="internship-content">
-    <div><strong>2026.03 - Present</strong>: Alibaba Group, Research Intern in <a href="https://github.com/alibaba/Taobao3D">TaoTian Meta Technology Team</a></div>
+    <div><strong>2026.03 - 2026.09</strong>: Alibaba Group, Research Intern in <a href="https://github.com/alibaba/Taobao3D">TaoTian Meta Technology Team</a></div>
   </div>
 </div>
 
